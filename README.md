@@ -113,3 +113,15 @@
 > Together, these tracks converge to empower industry-wide equilibrium, transforming talent pipelines and leadership cadres into engines of collective prosperity.
 >
 > ---
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/thelegendarysr/thelegendarysr/blob/main/INSTITUTIONAL_TO_INDUSTRIAL_TRANSITION.md#institutional-to-industrial-transition">
+    <img src="https://img.shields.io/badge/CLICK%20HERE%20TO%20LEARN%20MORE-007bff?style=for-the-badge&labelColor=000000" 
+         alt="CLICK HERE TO LEARN MORE" 
+         style="margin: 10px;">
+  </a>
+</p>
+
+<br><br>
